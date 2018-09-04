@@ -1,4 +1,6 @@
-# integris-wyatt
+# Big Fridge Coding Challenge
+
+This is Wyatt Fry's submission for the coding challenge annikahagelin/big-fridge. It uses data from 10 provided json files and displays the information in a dashboard.
 
 ## Project setup
 ```
